@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232924263376",
+    "project_id": "dogs-random",
+    "storage_bucket": "dogs-random.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232924263376:android:8c78f5f058a2db161f7fd5",
+        "android_client_info": {
+          "package_name": "com.example.project_akhir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNpRkE5hxZjzOFEfez0_WDxwdcyMgrXFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
